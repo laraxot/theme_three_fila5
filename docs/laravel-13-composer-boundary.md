@@ -1,3 +1,16 @@
+---
+title: "Laravel 13 Composer boundary for Three"
+type: rule
+tags: ['laravel']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "laravel 13 composer boundary for three"
+related:
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+  - "./agent-edit-discipline.md"
+---
+
 # Laravel 13 Composer boundary for Three
 
 ## Rule
@@ -21,4 +34,4 @@ After Composer resolves Laravel 13:
 
 ## References
 
-- Xot Composer strategy: [../../Modules/Xot/docs/laravel-13-modular-composer-upgrade.md](../../Modules/Xot/docs/laravel-13-modular-composer-upgrade.md)
+- Xot Composer strategy: [../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md](../../../laravel/Modules/Xot/docs/laravel-13-modular-composer-upgrade.md)

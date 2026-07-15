@@ -1,3 +1,16 @@
+---
+title: "Spatie Permission Team Context"
+type: guide
+tags: ['filament', 'laravel', 'permission']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "spatie permission team context"
+related:
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+  - "./agent-edit-discipline.md"
+---
+
 # Spatie Permission Team Context
 
 ## Boundary

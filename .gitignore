@@ -19,3 +19,7 @@ docs/legacy/**
 *.backup.*
 *.backup-*
 *.backup_*
+.cursor/
+.devcontainer/
+.vscode/
+.windsurf/
