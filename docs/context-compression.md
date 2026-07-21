@@ -1,3 +1,16 @@
+---
+title: "KiloCLI Contestazione Contesto Configurazione per Three"
+type: guide
+tags: ['testing']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "kilocli contestazione contesto configurazione per three"
+related:
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+  - "./agent-edit-discipline.md"
+---
+
 # KiloCLI Contestazione Contesto Configurazione per Three
 
 Configurazione consigliata per gestire i limiti di token (262144) con compressione contesto durante lo sviluppo con Tema Three:

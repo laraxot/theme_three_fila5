@@ -1,3 +1,16 @@
+---
+title: "Docs archive policy"
+type: rule
+tags: ['theme', 'docs-archive-policy']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "docs archive policy"
+related:
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+  - "./agent-edit-discipline.md"
+---
+
 # Docs archive policy
 
 `docs/legacy/` is local-only scratch/history and must not be used as a canonical theme documentation source.
