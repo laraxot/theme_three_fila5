@@ -1,3 +1,16 @@
+---
+title: "Filament Version Declaration — Three"
+type: guide
+tags: ['filament', 'laravel']
+created: 2026-07-14
+updated: 2026-07-14
+qmd: "filament version declaration three"
+related:
+  - "./agent-confidence-discipline.md"
+  - "./agent-confidence-protocol.md"
+  - "./agent-edit-discipline.md"
+---
+
 # Filament Version Declaration — Three
 
 **Current Version**: Filament v5 (Livewire v4 + Schemas)

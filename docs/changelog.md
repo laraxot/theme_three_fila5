@@ -66,7 +66,7 @@ Three theme serves as the **backbone documentation** for Laraxot PTVX. It is not
   - `agent-confidence-protocol.md` — Agent verification
   - `agent-edit-discipline.md` — Code edit standards
   - `code-redundancy-audit.md` — Quality checks
-  - `duplicate_methods_report.md` — Refactoring candidates
+  - `duplicate-methods-report.md` — Refactoring candidates
   - `filament-version.md` — Filament tracking
   - `filament-resource-schemas-tables.md` — Filament patterns
   - `laravel-13-composer-boundary.md` — Laravel bounds
