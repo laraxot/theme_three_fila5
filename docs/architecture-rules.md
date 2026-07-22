@@ -44,3 +44,12 @@ At theme root level, these folders MUST NOT exist:
 ---
 
 *Updated: June 2026*
+
+## Confine UI ≠ Geo (tema)
+
+I temi **non** reintroducono mappe/`LocationSelector` tramite UI. In questo monorepo `Modules/Geo` è assente.
+
+- Canon: [geo-boundary.md](../../../Modules/UI/docs/geo-boundary.md)
+- Come corretto in UI (2026-07-22): delete adapter Map/Location + push dual-remote — vedi handoff sotto.
+
+*Updated: 2026-07-22*
