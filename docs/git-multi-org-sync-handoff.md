@@ -52,3 +52,11 @@ Forward-only: niente reset/squash/force per aggirare LFS.
 
 `merge-base` vuoto vs un org → STOP. User: laraxot `3ea7273a` OK; provtv unrelated.
 [../../../Modules/User/docs/wiki/troubleshooting/git-push-dual-remote-unrelated.md](../../../Modules/User/docs/wiki/troubleshooting/git-push-dual-remote-unrelated.md).
+
+## Stato sync 2026-07-23 (sessione successiva)
+
+- **Remotes:** entrambi raggiungibili — `laraxot` (`git@github.com:laraxot/theme_three_fila5.git`), `provtv` (`git@github.com:provtv/theme_three_fila5.git`).
+- **Working tree:** dirty su `docs/git-multi-org-sync-handoff.md` + `docs/multi-org-sync-laraxot-provtv.md` (note di sessione precedente, non conflitto) → committato con `chore(Three): sync locale — commit lavoro in sospeso` (`1fd89e7`).
+- **Sync:** 0 commit mancanti da entrambi i remote, 1 commit nostro non ancora pubblicato su entrambi → pushato senza conflitti su `laraxot` (`fd1ac8c..1fd89e7`) e `provtv` (`fd1ac8c..1fd89e7`).
+- Nessun merge/rebase in corso, nessun marker di conflitto, nessuna correzione di codice necessaria.
+- **Stato finale:** branch `dev` allineato a entrambi `laraxot/dev` e `provtv/dev`, working tree pulito.
