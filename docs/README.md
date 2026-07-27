@@ -4,9 +4,10 @@ module: Three
 type: index
 status: approved
 tags: [documentation, readme, tema, second-brain]
-updated: "2026-05-27"
+updated: "2026-07-27"
 related:
   - ../README.md
+  - ../../../../docs/wiki/troubleshooting/phpstan-stale-ignore-pattern.md
 ---
 
 # Documentazione — tema Three
@@ -16,6 +17,11 @@ related:
 ## Scopo
 
 Tema Three Laraxot PTVX — documentazione operativa.
+
+## Qualità (2026-07-27)
+
+- PHPStan: `analyse Modules` (o `Modules Themes`). Mai `Themes` da solo — [phpstan-stale-ignore-pattern](../../../../docs/wiki/troubleshooting/phpstan-stale-ignore-pattern.md).
+- Remote: `cd laravel/Themes/Three && git remote -v`.
 
 ## Dove iniziare
 
