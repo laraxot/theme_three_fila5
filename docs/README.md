@@ -10,13 +10,29 @@ related:
   - ../../../../docs/wiki/troubleshooting/phpstan-stale-ignore-pattern.md
 ---
 
-# Documentazione — tema Three
+# 🎨 Tema Three - Tema Sperimentale Laraxot
 
-> **Mappa knowledge base locale.** Il [README in root](../README.md) è la vetrina (valore, release, onboarding); questo file indica **dove** trovare regole, wiki e audit per chi sviluppa o per gli agenti AI.
+[![Laravel 12.x](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com/)
+[![Filament 5.x](https://img.shields.io/badge/Filament-5.x-blue.svg)](https://filamentphp.com/)
+[![PHP 8.4](https://img.shields.io/badge/PHP-8.4-blueviolet.svg)](https://www.php.net/)
+[![PHPStan Level 10](https://img.shields.io/badge/PHPStan-Level%2010-brightgreen.svg)](https://phpstan.org/)
+[![Experimental](https://img.shields.io/badge/Status-Experimental-yellow.svg)](#)
 
-## Scopo
+> **Tema Three**: Tema sperimentale e laboratorio per nuove features e design patterns in Laraxot PTVX.
 
-Tema Three Laraxot PTVX — documentazione operativa.
+## 📋 Overview
+
+Tema **Three** è il tema sperimentale di Laraxot PTVX, dedicato a:
+- Ricerca e sviluppo di nuovi pattern UI
+- Prototipazione di features avanzate
+- Testing di dipendenze e integrazioni
+- Innovazione incrementale del design system
+
+**Mappa knowledge base locale**: Il [README in root](../README.md) è la vetrina (valore, release, onboarding); questo file indica **dove** trovare regole, wiki e audit per chi sviluppa o per gli agenti AI.
+
+## 🎯 Scopo
+
+Tema Three Laraxot PTVX — laboratorio di innovazione e documentazione operativa.
 
 ## Qualità (2026-07-27)
 
