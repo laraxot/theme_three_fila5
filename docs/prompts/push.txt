@@ -44,3 +44,12 @@ Output finale richiesto:
 - commit finale;
 - verifiche 0 0;
 - stato clean.
+
+Risultato reale 2026-07-29:
+- commit sync locale pubblicato: b716b55;
+- provtv/dev verificato: HEAD...provtv/dev = 0 0;
+- laraxot/dev verificato: HEAD...laraxot/dev = 0 0;
+- push laraxot riuscito: c70b273..b716b55;
+- working tree pulito dopo commit/push;
+- non sono stati usati reset, restore, checkout, switch, revert o force push.
+
