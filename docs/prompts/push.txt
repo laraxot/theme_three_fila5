@@ -45,7 +45,4 @@ Risultato reale 2026-07-29:
 - push laraxot riuscito: c70b273..b716b55;
 - working tree pulito dopo commit/push;
 - non sono stati usati reset, restore, checkout, switch, revert o force push.
-<<<<<<< .merge_file_RCY5mG
-=======
 
->>>>>>> .merge_file_BgSH4Q
