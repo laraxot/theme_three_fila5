@@ -1,0 +1,16 @@
+{
+  "communities": {
+    "0": [
+      "resources_views_components_blocks_links_grid_blade"
+    ]
+  },
+  "cohesion": {
+    "0": 1.0
+  },
+  "gods": [],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
