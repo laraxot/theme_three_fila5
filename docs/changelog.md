@@ -20,7 +20,7 @@ Version history for Three theme (governance & documentation). Follows Semantic V
 
 - **Semantic Versioning**: MAJOR.MINOR.PATCH (e.g., 1.0.0)
 - **Source**: Git tags + governance document updates
-- **Documentation**: Maintained in this file + root CHANGELOG.md
+- **Documentation**: Maintained in this file + root changelog.md
 - **Governance updates**: Mark major policy changes with ⚠️ emoji
 - **Note**: Three is a **documentation & governance** theme with no public frontend assets
 
@@ -119,7 +119,7 @@ Three theme serves as the **backbone documentation** for Laraxot PTVX. It is not
 - Three docs are referenced by Zero and One
 - Governance rules apply to all themes
 - Naming conventions shared across themes (with theme-specific extensions)
-- Changelog coordinated with main project CHANGELOG.md
+- Changelog coordinated with main project changelog.md
 
 ---
 

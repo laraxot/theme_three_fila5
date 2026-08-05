@@ -6,7 +6,7 @@ created: 2026-08-05
 updated: 2026-08-05
 qmd: "filament admin record sub navigation theme ownership"
 related:
-  - "./INDEX.md"
+  - "./index.md"
 ---
 
 # Sub navigation del pannello admin

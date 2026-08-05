@@ -1,14 +1,14 @@
 ---
 title: "Three Theme Architecture"
 type: architecture
-tags: [theme, architecture, ${theme,,}]
+tags: [theme, architecture, three]
 created: 2026-08-04
 updated: 2026-08-04
 ---
 # Three Theme — Architecture
 
 ## Purpose
-Three} theme architecture and design patterns for Laraxot PTVX.
+Three theme architecture and design patterns for Laraxot PTVX.
 
 ## Core Components
 
