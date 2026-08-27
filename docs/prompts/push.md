@@ -1,3 +1,15 @@
+---
+title: 'Push'
+module: Three
+type: reference
+slug: push
+description: 'Obiettivo: sincronizzare il tema Three su tutti i remote GitHub configurati e documentare il percorso.'
+tags: [migrato-da-txt, three]
+converted_from: push.txt
+created: 2026-08-24
+updated: 2026-08-24
+---
+
 Obiettivo: sincronizzare il tema Three su tutti i remote GitHub configurati e documentare il percorso.
 
 Contesto tema:
