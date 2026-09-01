@@ -27,7 +27,7 @@ rifare e contestare.
 | PHPInsights — Complexity | 100.0 % |
 | PHPInsights — Architecture | 100.0 % |
 | PHPInsights — Style | 100.0 % |
-| File `.md` sotto `docs/` | 47 |
+| File `.md` sotto `docs/` | 48 |
 | `TODO`/`FIXME`/`HACK` | 0 |
 | Test con casi che non girano (senza suffisso `Test.php`) | 0 |
 | Collisioni di case nel codice | 0 |
