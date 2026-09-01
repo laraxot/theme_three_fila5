@@ -1,16 +1,20 @@
 ---
 title: "Filament Resource: Schemas e Tables (tema Three)"
 type: guide
-tags: ['filament']
+description: "Convenzione Schemas/Tables Filament per tema Three; eccezione scheda BaseSchedaForm/Infolist."
+status: stable
+tags: [filament, schemas, tables, theme-three]
+module: "Themes/Three"
 created: 2026-07-14
-updated: 2026-07-14
-qmd: "filament resource schemas e tables tema three"
+updated: 2026-09-01
+qmd: "filament resource schemas tables tema three BaseSchedaForm BaseSchedaInfolist"
 related:
-  - "./agent-confidence-discipline.md"
-  - "./agent-confidence-protocol.md"
-  - "./agent-edit-discipline.md"
+  - ../../../Modules/Ptv/docs/scheda-resource-pages-inheritance.md
+  - ../../../Modules/IndennitaResponsabilita/docs/base-scheda-form-inheritance.md
+  - ../../../Modules/IndennitaResponsabilita/docs/base-scheda-infolist-inheritance.md
+  - ../One/docs/filament-resource-schemas-tables.md
+  - ../../../docs/wiki/rules/markdown-file-naming-and-frontmatter.md
 ---
-
 # Filament Resource: Schemas e Tables (tema Three)
 
 ## Scopo
@@ -32,6 +36,7 @@ Themes/Three/app/Filament/Resources/{ResourceName}/
 ## Regole
 
 - Classi base Xot (`XotBaseResourceForm`, `XotBaseResourceInfolist`, `XotBaseResourceTable`).
+- **Eccezione scheda:** model `BaseScheda` → Form `BaseSchedaForm` e Infolist `BaseSchedaInfolist` (non Xot diretti). [Ptv inheritance](../../../Modules/Ptv/docs/scheda-resource-pages-inheritance.md), [IR Form](../../../Modules/IndennitaResponsabilita/docs/base-scheda-form-inheritance.md), [IR Infolist](../../../Modules/IndennitaResponsabilita/docs/base-scheda-infolist-inheritance.md).
 - Array con chiavi stringa; niente label hardcoded sui componenti.
 - **`getPages()`:** omettere se solo CRUD standard e naming Page allineato — [regola Xot](../../../laravel/Modules/Xot/docs/filament/getpages-redundancy-rule.md).
 - **Copia Page → `*Table`:** `getHeaderActions()` → `getTableHeaderActions()`, `$this->getModel()` → FQCN, `$this->tableFilters ?? []`, niente `#[Override]`. **NON** creare override `return parent::getTableXxx();` o `return [];` (= default, viola DRY+KISS). Dettaglio: [Progressioni](../../../laravel/Modules/Progressioni/docs/filament-resource-schemas-tables.md#copia-metodi-tabella-page--classe-table-override-utili-vs-inutili).
