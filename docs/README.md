@@ -1,3 +1,11 @@
+---
+title: "Theme Documentation"
+type: index
+tags: [theme, three, readme]
+created: 2026-07-21
+updated: 2026-07-29
+qmd: "three theme theme documentation"
+---
 # Theme Documentation
 
 This directory contains documentation for the theme.
