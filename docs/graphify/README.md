@@ -1,3 +1,11 @@
+---
+title: "Graphify Knowledge Graph"
+type: index
+tags: [theme, three, readme]
+created: 2026-08-03
+updated: 2026-09-02
+qmd: "three theme graphify knowledge graph"
+---
 # Graphify Knowledge Graph
 
 ## Overview
