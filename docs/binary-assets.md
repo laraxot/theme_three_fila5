@@ -1,3 +1,11 @@
+---
+title: "Asset binari"
+type: guide
+tags: [theme, three, binary, assets]
+created: 2026-07-29
+updated: 2026-09-01
+qmd: "three theme asset binari"
+---
 # Asset binari
 
 Gli asset binari sono file normali del repository.
