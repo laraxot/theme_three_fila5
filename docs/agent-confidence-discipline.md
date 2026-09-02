@@ -8,7 +8,7 @@ updated: "2026-07-22"
 related:
   - "../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md"
   - "../../../../docs/wiki/rules/agent-confidence-protocol.md"
-issue: "https://github.com/provtv/base_ptv_fila5/issues/152"
+issue: "https://github.com/provtv/<nome repository>/issues/152"
 ---
 
 # Disciplina agenti per massimizzare la confidenza
