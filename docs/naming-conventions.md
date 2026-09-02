@@ -203,7 +203,7 @@ Three/docs/
 
 ### Related Documentation Links
 - **Format**: Link to Zero/One themes where applicable
-- **Example**: `[see naming-conventions in Zero](../../../Zero/docs/naming-conventions.md)`
+- **Example**: `[see naming-conventions in Zero](../../Zero/docs/naming-conventions.md)`
 - **Cross-theme consistency**: Reference Zero/One for implementation details
 
 ---
@@ -434,5 +434,5 @@ A: Create a new `.md` file in `docs/`, use the YAML frontmatter template, mark `
 - [Laravel Naming Conventions](https://laravel.com/)
 - [Spatie Laravel Permissions](https://spatie.be/docs/laravel-permission)
 - [PHP PSR-12 Standard](https://www.php-fig.org/psr/psr-12/)
-- [Zero Theme Naming](../../../Zero/docs/naming-conventions.md)
-- [One Theme Naming](../../../One/docs/naming-conventions.md)
+- [Zero Theme Naming](../../Zero/docs/naming-conventions.md)
+- [One Theme Naming](../../One/docs/naming-conventions.md)

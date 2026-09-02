@@ -15,5 +15,5 @@ updated: "2026-06-15"
 
 ## Collegamenti
 
-- [method-name-homonym-census](../../../../docs/wiki/method-name-homonym-census.md) — indice progetto
-- [Theme One — ridondanza](../../One/docs/wiki/concepts/code-redundancy-theme.md)
+- [method-name-homonym-census](../../../../../docs/wiki/method-name-homonym-census.md) — indice progetto
+- [Theme One — ridondanza](../../../One/docs/wiki/concepts/code-redundancy-theme.md)

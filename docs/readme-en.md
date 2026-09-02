@@ -29,17 +29,17 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 
 ## Documentazione essenziale
 
-- **[Indice docs (entrypoint)](./docs/README.md)** — obbligatorio per navigazione e agenti
-- [Audit ridondanza](./docs/code-redundancy-audit.md)
-- [Protocollo confidenza](./docs/agent-confidence-protocol.md)
-- [Disciplina agenti](./docs/agent-edit-discipline.md)
-- [Architecture Rules](./docs/architecture-rules.md)
-- [Context Compression](./docs/context-compression.md)
-- [Docs Archive Policy](./docs/docs-archive-policy.md)
-- [Filament Version](./docs/filament-version.md)
-- [Laravel 13 Composer Boundary](./docs/laravel-13-composer-boundary.md)
-- [Laravel 13 Upgrade](./docs/laravel-13-upgrade.md)
-- [Second Brain](./docs/second-brain.md)
+- **[Indice docs (entrypoint)](./README.md)** — obbligatorio per navigazione e agenti
+- [Audit ridondanza](./code-redundancy-audit.md)
+- [Protocollo confidenza](./agent-confidence-protocol.md)
+- [Disciplina agenti](./agent-edit-discipline.md)
+- [Architecture Rules](./architecture-rules.md)
+- [Context Compression](./context-compression.md)
+- [Docs Archive Policy](./docs-archive-policy.md)
+- [Filament Version](./filament-version.md)
+- [Laravel 13 Composer Boundary](./laravel-13-composer-boundary.md)
+- [Laravel 13 Upgrade](./laravel-13-upgrade.md)
+- [Second Brain](./second-brain.md)
 
 ## Filosofia
 
