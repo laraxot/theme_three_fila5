@@ -237,7 +237,7 @@ To keep Three, Zero, and One consistent:
 - [Naming Conventions](./naming-conventions.md) — Naming guidelines
 - [../README.md](../README.md) — Root Three README
 - [Zero Changelog](../../../Zero/docs/changelog.md) — Zero version history
-- [One Changelog](../../../One/docs/changelog.md) — One version history
+- [One Changelog](../../One/docs/changelog.md) — One version history
 - [Filament Documentation](https://filamentphp.com/docs)
 - [Spatie Laravel Permissions](https://spatie.be/docs/laravel-permission)
 - [Laravel Governance](../../../docs/wiki/) — Project-wide governance
