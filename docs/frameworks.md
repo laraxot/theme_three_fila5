@@ -1,3 +1,11 @@
+---
+title: "Three — Framework Integration Notes"
+type: guide
+tags: [theme, three, frameworks, caveman, graphify, bmad, headroom, ponytail]
+created: 2026-09-02
+updated: 2026-09-02
+qmd: "three theme framework integration notes"
+---
 # Three — Framework Integration Notes
 
 Integration guidelines for caveman, graphify, bmad-method, headroom, ponytail.

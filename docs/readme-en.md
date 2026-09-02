@@ -1,3 +1,11 @@
+---
+title: "Three Theme — README (English)"
+type: guide
+tags: [theme, three, readme, english]
+created: 2026-09-02
+updated: 2026-09-02
+qmd: "three theme readme english overview"
+---
 # Three: il tema che trasforma complessita in vantaggio operativo
 
 Tema Laraxot pensato per trasformare funzionalita complesse in esperienza pronta, documentata e governabile.
