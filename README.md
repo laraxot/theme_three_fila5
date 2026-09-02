@@ -33,6 +33,19 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 - [Laravel 13 Upgrade](./docs/laravel-13-upgrade.md)
 - [Second Brain](./docs/second-brain.md)
 
+## Scopo e confini
+
+Three, oggi, non è un tema: è una cartella di documentazione con dentro un file Blade
+duplicato da Zero. Misurato il 2026-09-02: **1** file `.blade.php`
+(`components/blocks/links/grid.blade.php`, byte a byte identico a quello di One e di
+Zero) contro **54** documenti Markdown in `docs/`. Mancano `theme.json`,
+`composer.json`, `package.json`, `vite.config.js`, `tailwind.config.js`, `app/`, `lang/`
+e `public/`; nessuna configurazione lo nomina (`pub_theme` è `Zero` in produzione, `One`
+su `localhost`). Non è incompleto: non è registrabile.
+
+Misure e le quattro mosse per decidere — archiviare oppure completare:
+[`docs/scopo.md`](./docs/scopo.md).
+
 ## Filosofia
 
 Scopo prima del codice. DRY prima dell'orgoglio. KISS prima dell'astrazione. La release automatica non sostituisce il giudizio: lo rende tracciabile.
