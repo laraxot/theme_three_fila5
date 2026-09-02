@@ -8,7 +8,7 @@ updated: "2026-07-22"
 related:
   - "../../../../docs/wiki/rules/agent-confidence-protocol.md"
 issues:
-  - https://github.com/provtv/base_ptv_fila5/issues/124
+  - https://github.com/provtv/<nome repository>/issues/124
 ---
 
 # Massima confidenza agente
