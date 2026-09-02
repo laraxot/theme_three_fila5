@@ -2,6 +2,9 @@
 
 ## Overview
 
+> `graphify-out/` è output generato (`graphify extract`), ignorato da `.gitignore`
+> del tema e non versionato dal 2 settembre 2026 (story 5.77). Si rigenera, non si committa.
+
 This directory contains the knowledge graph for the **Three** theme, generated using [Graphify](https://graphify.dev/). The graph provides a comprehensive visualization of code dependencies, architecture, and relationships within the theme.
 
 ## Quick Start
