@@ -213,7 +213,7 @@ When preparing a governance release:
 None planned for v1.0.
 
 **Future considerations (v2.0+):**
-- Possible: Filament 4.0 adoption (if breaking)
+- Possible: Filament 5.0 adoption (if breaking)
 - Possible: Permission model redesign (if needed)
 - Possible: Multi-tenancy pattern update
 
