@@ -36,3 +36,7 @@ docs/archive
 # Output strumenti AI (cache locali, mai in git)
 graphify-out/
 .headroom/
+
+# Laraxot — quality tool configs forbidden in theme root (2026-09-15)
+rector.php
+phpinsights.php
