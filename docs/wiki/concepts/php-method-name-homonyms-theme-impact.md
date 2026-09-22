@@ -12,6 +12,6 @@ related:
 
 # Omonimi metodi PHP — Theme Three
 
-Stesso contratto di [Theme One — impatto temi](../../../One/docs/wiki/concepts/php-method-name-homonyms-theme-impact.md).
+Stesso contratto di [Theme One — impatto temi](../../../../One/docs/wiki/concepts/php-method-name-homonyms-theme-impact.md).
 
 Censimento canon: [method-name-homonym-census](../../../../../../docs/wiki/analysis/method-name-homonym-census.md).
