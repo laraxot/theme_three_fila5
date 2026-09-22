@@ -79,7 +79,7 @@ The Three theme provides a consistent, maintainable frontend experience using Bl
 ## 5. Technical Considerations
 
 ### Dependencies
-- Laravel 12+
+- Laravel 13+
 - Blade templates
 - Tailwind CSS v4
 - Vite build tool
