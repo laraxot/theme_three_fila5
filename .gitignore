@@ -51,3 +51,11 @@ phpinsights.php
 /.vscode/
 .cursor~*
 .windsurf~*
+<<<<<<< HEAD
+
+# Artefatti audit vietati (rule: tests-auditcoverage-forbidden)
+tests/AuditCoverage/
+audit-coverage/
+.claude-audit/
+=======
+>>>>>>> laraxot/dev
