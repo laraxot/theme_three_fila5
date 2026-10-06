@@ -1,23 +1,24 @@
 ---
-title: "Theme Documentation"
+title: "Documentazione Theme Three"
 type: index
-tags: [theme, three, readme]
+tags: [theme, three, documentation]
 created: 2026-07-21
-updated: 2026-07-29
-qmd: "three theme theme documentation"
+updated: 2026-10-06
+qmd: "theme three documentation index architecture product requirements wiki bmad"
 ---
-# Theme Documentation
 
-This directory contains documentation for the theme.
+# Documentazione Theme Three
 
-## Structure
+Parti da [index.md](./index.md): raccoglie tutti i documenti Markdown del tema
+e li ordina per argomento.
 
-- **customization.md** - Theme customization
-- **README.md** - This file
+## Struttura attuale
 
-## Guidelines
+- I documenti generali e di prodotto sono in questa cartella.
+- `bmad/` contiene story BMAD.
+- `epics/` contiene epic e relative story.
+- `prompts/` contiene prompt operativi.
+- `wiki/` contiene concetti e note di conoscenza.
 
-Documentation should be:
-- Clear and concise
-- Updated with theme changes
-- Use Markdown format (.md)
+Aggiorna l'indice quando aggiungi o sposti documentazione. La normalizzazione
+delle altre cartelle e' tracciata in [`docs-reorg.md`](../../docs-reorg.md).
