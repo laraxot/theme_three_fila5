@@ -73,3 +73,9 @@ docs-only. Nessun commit/push.
   La docs lo dichiara, non lo nasconde.
 - Rischio di scritture concorrenti: `INDEX.md` è stato cancellato da un altro
   processo durante la sessione; prima di nuovi edit ricontrollare `git status`.
+
+## Note docs-guardian (swarm PHPStan 2026-10-21b)
+
+Temi già organizzati: nessun nuovo contenuto di feature. Dominio PHPStan residuo
+documentato nei moduli (Progressioni/Sigma/Ptv/Pdnd), non qui.
+
