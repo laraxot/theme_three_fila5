@@ -8,6 +8,7 @@ tags: [migrato-da-txt, three]
 converted_from: push.txt
 created: 2026-08-24
 updated: 2026-08-24
+qmd: "three theme Push push"
 ---
 
 Obiettivo: sincronizzare il tema Three su tutti i remote GitHub configurati e documentare il percorso.

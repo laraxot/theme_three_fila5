@@ -2,6 +2,7 @@
 title: architecture rules — Theme Three
 type: reference
 updated: 2026-06-18
+qmd: "three theme architecture rules — Theme Three architecture rules"
 ---
 
 # Architecture Rules — Theme Three

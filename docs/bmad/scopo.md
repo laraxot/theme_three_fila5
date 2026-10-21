@@ -197,7 +197,7 @@ cmp Themes/Three/resources/views/components/blocks/links/grid.blade.php \
 
 ## Collegamenti
 
-- [Themes/Zero/docs/scopo.md](../../Zero/docs/scopo.md) — il tema attivo in produzione
-- [Themes/One/docs/scopo.md](../../One/docs/scopo.md) — il tema di sviluppo locale
+- [Themes/Zero/docs/scopo.md](./scopo.md) — il tema attivo in produzione
+- [Themes/One/docs/scopo.md](./scopo.md) — il tema di sviluppo locale
 - [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) — perché non esiste `laravel/public`
-- [Modules/UI/docs/scopo.md](../../../Modules/UI/docs/scopo.md) — dove promuovere un blocco riusabile
+- [Modules/UI/docs/scopo.md](./scopo.md) — dove promuovere un blocco riusabile

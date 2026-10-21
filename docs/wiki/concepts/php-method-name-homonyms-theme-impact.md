@@ -8,6 +8,7 @@ updated: 2026-06-15
 related:
   - ../../../One/docs/wiki/concepts/php-method-name-homonyms-theme-impact.md
   - ../../../../../../docs/wiki/analysis/method-name-homonym-census.md
+qmd: "three theme omonimi metodi php — impatto temi php method name homonyms theme impact"
 ---
 
 # Omonimi metodi PHP — Theme Three

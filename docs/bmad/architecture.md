@@ -4,6 +4,7 @@ type: architecture
 tags: [theme, architecture, three]
 created: 2026-08-04
 updated: 2026-08-24
+qmd: "three theme Three Theme Architecture architecture"
 ---
 # Three Theme — Architecture
 
@@ -35,13 +36,6 @@ Three theme architecture and design patterns for Laraxot PTVX.
 
 <!-- Merged from ARCHITECTURE.md, which collided with this file on case-insensitive filesystems. -->
 
----
-title: "Three Theme Architecture"
-type: architecture
-tags: [theme, architecture, three, frontend]
-created: 2026-08-04
-updated: 2026-08-24
----
 # Three Theme — Architecture
 
 ## Purpose

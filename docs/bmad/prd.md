@@ -5,6 +5,7 @@ type: concept
 tags: [PRD, theme, three, frontend]
 created: 2026-08-04
 updated: 2026-08-04
+qmd: "three theme Product Requirements Document (PRD) - Three Theme prd"
 ---
 # Product Requirements Document (PRD) - Three Theme
 

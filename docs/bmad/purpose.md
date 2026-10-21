@@ -90,6 +90,6 @@ possa violarli — ed è il punto.
 
 ## Collegamenti
 
-- [Zero — scopo](../../Zero/docs/purpose.md) — il tema effettivamente servito
-- [One — scopo](../../One/docs/purpose.md) — il fork di Zero, a due file di distanza
+- [Zero — scopo](./purpose.md) — il tema effettivamente servito
+- [One — scopo](./purpose.md) — il fork di Zero, a due file di distanza
 - [docs/epics.md](../../../../docs/epics.md) — la Story Storage Policy, che indica un terzo tema ancora

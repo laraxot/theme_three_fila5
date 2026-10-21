@@ -10,6 +10,7 @@ related:
   - ../README.md
   - ../../../Zero/docs/changelog.md
   - ../../../One/docs/changelog.md
+qmd: "three theme Changelog — Three Theme changelog"
 ---
 
 # Changelog — Three Theme
@@ -233,11 +234,11 @@ To keep Three, Zero, and One consistent:
 ## References
 
 - [README.md](./README.md) — Three theme overview
-- [Architecture Rules](./architecture-rules.md) — Design standards
+- [Architecture Rules](../wiki/architecture-rules.md) — Design standards
 - [Naming Conventions](./naming-conventions.md) — Naming guidelines
 - [../README.md](../README.md) — Root Three README
 - [Zero Changelog](../../../Zero/docs/changelog.md) — Zero version history
-- [One Changelog](../../One/docs/changelog.md) — One version history
+- [One Changelog](./changelog.md) — One version history
 - [Filament Documentation](https://filamentphp.com/docs)
 - [Spatie Laravel Permissions](https://spatie.be/docs/laravel-permission)
 - [Laravel Governance](../../../docs/wiki/) — Project-wide governance
