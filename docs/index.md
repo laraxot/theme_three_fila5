@@ -86,3 +86,7 @@ maiuscola.
   [impatto delle omonimie sul tema](./wiki/concepts/php-method-name-homonyms-theme-impact.md),
   [dipendenze leaf e temi](./wiki/concepts/platform-leaf-dependency-and-theme.md) e
   [corpi metodo duplicati](./wiki/concepts/duplicate-method-bodies.md).
+
+## Cosa manca per completare
+
+[completion-status.md](./completion-status.md): indicatori misurati, problemi noti e story aperte (2026-10-28).
