@@ -30,13 +30,13 @@ Questo tema non e solo codice: e una vetrina operativa. Mostra dove intervenire,
 ## Documentazione essenziale
 
 - **[Indice docs (entrypoint)](./README.md)** — obbligatorio per navigazione e agenti
-- [Audit ridondanza](./code-redundancy-audit.md)
-- [Protocollo confidenza](./agent-confidence-protocol.md)
-- [Disciplina agenti](./agent-edit-discipline.md)
-- [Architecture Rules](./architecture-rules.md)
-- [Context Compression](./context-compression.md)
-- [Docs Archive Policy](./docs-archive-policy.md)
-- [Filament Version](./filament-version.md)
+- [Audit ridondanza](../wiki/code-redundancy-audit.md)
+- [Protocollo confidenza](../wiki/agent-confidence-protocol.md)
+- [Disciplina agenti](../wiki/agent-edit-discipline.md)
+- [Architecture Rules](../wiki/architecture-rules.md)
+- [Context Compression](../wiki/context-compression.md)
+- [Docs Archive Policy](../wiki/docs-archive-policy.md)
+- [Filament Version](../wiki/filament-version.md)
 - [Laravel 13 Composer Boundary](./laravel-13-composer-boundary.md)
 - [Laravel 13 Upgrade](./laravel-13-upgrade.md)
 - [Second Brain](./second-brain.md)

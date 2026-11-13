@@ -7,6 +7,7 @@ related:
   - ../../../../docs/wiki/method-name-homonym-census.md
   - ../../../Modules/Xot/docs/wiki/concepts/code-redundancy-philosophy.md
   - ../../One/docs/wiki/concepts/code-redundancy-theme.md
+qmd: "three theme censimento omonimi metodi — tema Three method name homonyms"
 ---
 
 # Censimento omonimi metodi — Theme Three

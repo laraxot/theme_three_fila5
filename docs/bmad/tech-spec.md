@@ -4,6 +4,7 @@ type: technical_spec
 tags: [tech spec, three, themes]
 created: 2026-08-04
 updated: 2026-08-04
+qmd: "three theme Technical Specification - Three Theme tech spec"
 ---
 # Technical Specification - Three Theme
 

@@ -1,6 +1,7 @@
 ---
 title: "Activity Log"
 module: "Three"
+qmd: "three theme Activity Log log"
 ---
 
 # Activity Log — Three

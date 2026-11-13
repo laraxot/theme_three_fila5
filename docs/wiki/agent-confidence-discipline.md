@@ -9,11 +9,12 @@ related:
   - "../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md"
   - "../../../../docs/wiki/rules/agent-confidence-protocol.md"
 issue: "https://github.com/provtv/<nome repository>/issues/152"
+qmd: "three theme Disciplina agenti per massimizzare la confidenza agent confidence discipline"
 ---
 
 # Disciplina agenti per massimizzare la confidenza
 
-Regola canonica modulo: [agent-confidence-discipline](../../../Modules/Xot/docs/wiki/concepts/agent-confidence-discipline.md).  
-Protocollo root: [agent-confidence-protocol](../../../../docs/wiki/rules/agent-confidence-protocol.md).
+Regola canonica modulo: [agent-confidence-discipline](./agent-confidence-discipline.md).  
+Protocollo root: [agent-confidence-protocol](./agent-confidence-protocol.md).
 
 Sintesi: verificare prima di affermare; riprodurre prima di correggere; **scopo / chiamanti / docs tema o modulo owner**.
