@@ -1,4 +1,5 @@
 ---
+qmd: "three completion status md"
 title: "Three: cosa manca per completare"
 type: status
 module: Three
