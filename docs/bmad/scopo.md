@@ -168,7 +168,7 @@ diff <(sed -n '1,20p' README.md) <(sed -n '1,20p' ../One/README.md)   # oggi: qu
   vanno shell generiche e `auth`, non `tickets/`, `news/`, `services/`.
 - **Non** scrive in `laravel/public`. Il `public_path()` di questo progetto è
   `public_html/` (`laravel/app/Application.php:16-18`), come da SSoT
-  [`public-path-is-public-html`](../../../../docs/wiki/memories/public-path-is-public-html.md).
+  [`public-path-is-public-html`](../../../../../bashscripts/ai/wiki/memories/frontend-themes-css.md#public-path-is-public-html).
 
 ## Verifica
 
@@ -199,5 +199,5 @@ cmp Themes/Three/resources/views/components/blocks/links/grid.blade.php \
 
 - [Themes/Zero/docs/scopo.md](./scopo.md) — il tema attivo in produzione
 - [Themes/One/docs/scopo.md](./scopo.md) — il tema di sviluppo locale
-- [public-path-is-public-html](../../../../docs/wiki/memories/public-path-is-public-html.md) — perché non esiste `laravel/public`
+- [public-path-is-public-html](../../../../../bashscripts/ai/wiki/memories/frontend-themes-css.md#public-path-is-public-html) — perché non esiste `laravel/public`
 - [Modules/UI/docs/scopo.md](./scopo.md) — dove promuovere un blocco riusabile
