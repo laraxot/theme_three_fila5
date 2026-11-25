@@ -14,6 +14,6 @@ qmd: "Theme Three contract INDEX backlog"
 
 ## Backlog contract
 
-Nessuno finché la decisione su Three (archiviare o completare, vedi [README del tema](../../README.md) e [bmad/scopo.md](../bmad/scopo.md)) non è presa. Il link `docs/scopo.md` del README è rotto: il file esiste come [bmad/scopo.md](../bmad/scopo.md).
+Nessuno finché la decisione su Three (archiviare o completare, vedi [README docs](../README.md)) non è presa.
 
 Totale Action di dominio: 0. Viste Blade: 1 file `.blade.php`.

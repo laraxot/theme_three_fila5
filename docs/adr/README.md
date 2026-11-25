@@ -16,4 +16,4 @@ Frontmatter (`title`, `type: decision`, `status`, `created`, `updated`, `decisio
 
 ## ADR presenti
 
-**Nessuno.** La sola questione aperta (archiviare Three oppure completarlo) è dichiarata nel [README del tema](../../README.md) come decisione ancora da prendere: non si registra come ADR una decisione che non c'è. Quando verrà presa, creare qui l'ADR con la prova nel codice.
+**Nessuno.** La sola questione aperta (archiviare Three oppure completarlo) è dichiarata nel [README docs](../README.md) come decisione ancora da prendere: non si registra come ADR una decisione che non c'è. Quando verrà presa, creare qui l'ADR con la prova nel codice.
