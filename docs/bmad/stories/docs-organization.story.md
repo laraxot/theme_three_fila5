@@ -16,8 +16,25 @@ related:
   - ../../../../Zero/docs/bmad/stories/docs-organization.story.md
   - ../../../../../Modules/Xot/docs/bmad/stories/phpstan-modules-swarm-20261021.story.md
 ---
-
 # Organizzazione docs — Theme Three
+
+## Context and Problem Statement
+
+Problema e obiettivo sono descritti nel Decision Outcome (migrazione automatica a MADR).
+
+## Decision Drivers
+
+- Richiesta utente / acceptance criteria della story
+- Vincoli BMAD, second brain, Pest gate e dati sacri
+
+## Considered Options
+
+- Status quo (non fare)
+- Implementare come descritto nel Decision Outcome
+
+## Decision Outcome
+
+Scelta: **implementare**, perché i driver sopra.
 
 ## Obiettivo
 
@@ -79,3 +96,21 @@ docs-only. Nessun commit/push.
 Temi già organizzati: nessun nuovo contenuto di feature. Dominio PHPStan residuo
 documentato nei moduli (Progressioni/Sigma/Ptv/Pdnd), non qui.
 
+
+
+### Consequences
+
+- Buono, perché chiude il gap descritto nel Context
+- Cattivo, perché richiede write-back docs, lock e quality gate
+
+### Confirmation
+
+```bash
+find laravel/Themes/Three/docs -type f | tr 'A-Z' 'a-z' | sort | uniq -d  # vuoto
+# frontmatter/qmd: 57 file attivi, 0 senza frontmatter, 0 senza qmd
+# link relativi: 0 rotti in indici/README; debito residuo nei documenti storici
+git diff --check -- laravel/Themes/Three/docs                  # solo whitespace storico
+```
+
+Nessun codice applicativo toccato: Pest e PHPStan non applicabili a un diff
+docs-only. Nessun commit/push.

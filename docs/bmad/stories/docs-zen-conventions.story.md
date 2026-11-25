@@ -9,8 +9,26 @@ updated: 2026-11-25
 parent: ../../../../Modules/Xot/docs/bmad/stories/docs-zen-conventions-swarm.story.md
 qmd: "three tema docs bonifica kebab-case index duplicate methods report frontmatter qmd"
 ---
-
 # Three — bonifica docs `.md`
+
+## Context and Problem Statement
+
+Lane C dello swarm `laravel/Modules/Xot/docs/bmad/stories/docs-zen-conventions-swarm.story.md`.
+Il tema era quasi a norma: solo 2 nomi non kebab e un report generico cross-modulo.
+
+## Decision Drivers
+
+- Richiesta utente / acceptance criteria della story
+- Vincoli BMAD, second brain, Pest gate e dati sacri
+
+## Considered Options
+
+- Status quo (non fare)
+- Implementare come descritto nel Decision Outcome
+
+## Decision Outcome
+
+Scelta: **implementare**, perché i driver sopra.
 
 ## Perche'
 
@@ -45,3 +63,13 @@ Il tema era quasi a norma: solo 2 nomi non kebab e un report generico cross-modu
 
 Solo `.md`: PHPStan/Pint/Pest non applicabili (skip documentato; PHPStan gia' 0). Verifica: misura ripetuta,
 YAML frontmatter parse 0 errori, 0 riferimenti a file rimossi/rinominati.
+
+
+### Consequences
+
+- Buono, perché chiude il gap descritto nel Context
+- Cattivo, perché richiede write-back docs, lock e quality gate
+
+### Confirmation
+
+Aggiungere prova ripetibile (Pest exit code + conteggio, PHPStan, o skip host documentato).
