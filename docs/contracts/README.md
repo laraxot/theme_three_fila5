@@ -16,4 +16,4 @@ Standard: [contract-authoring-standard](../../../../Modules/Xot/docs/contracts/c
 
 ## File presenti
 
-- [INDEX.md](INDEX.md): registro operativo
+- [index.md](index.md): registro operativo

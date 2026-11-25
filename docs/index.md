@@ -56,7 +56,7 @@ maiuscola.
 - [Audit qualita'](./bmad/quality-audit.md)
 - [Audit ridondanza codice](./wiki/code-redundancy-audit.md)
 - [Metodi duplicati](./wiki/duplicate-methods.md) e
-  [rapporto metodi duplicati](./wiki/duplicate-methods-report.md)
+  [rapporto metodi duplicati](./wiki/duplicate-methods.md)
 - [Cosa migliorare](./wiki/cosa-migliorare.md)
 - [Changelog](./bmad/changelog.md)
 - [Standard release marketing](./bmad/release-marketing-standard.md)
